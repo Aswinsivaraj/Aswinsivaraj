@@ -40,7 +40,7 @@ I'm a Student with a passion for web designing and frontend development. I enjoy
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/(https://www.linkedin.com/in/aswin-sivaraj-542b9a25a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aswin-sivaraj-542b9a25a/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:aswincse2003@gmail.com)
 
