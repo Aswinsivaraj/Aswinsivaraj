@@ -8,11 +8,9 @@ I'm a [Your Profession or Student] with a passion for web designing and frontend
 
 - 🌱 I’m currently learning full-stack development.
 - 👯 I’m looking to collaborate on frontend and web design projects.
-- 🤔 I’m looking for help with [Specific thing you need help with].
 - 💬 Ask me about web designing and frontend development.
-- 📫 How to reach me: [aswincse2003@gmail.com](mailto:aswincse2003@gmail.com).
+- 📫 How to reach me: aswincse2003@gmail.com(mailto:aswincse2003@gmail.com).
 - 😄 Pronouns: he/his.
-- ⚡ Fun fact: [A fun fact about you].
 
 ## 🚀 Skills
 
