@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a [Your Profession or Student] with a passion for web designing and frontend development. I enjoy creating and contributing to open-source projects and always strive to learn and grow as a developer.
+I'm a Student with a passion for web designing and frontend development. I enjoy creating and contributing to open-source projects and always strive to learn and grow as a developer.
 
 - 🌱 I’m currently learning full-stack development.
 - 👯 I’m looking to collaborate on frontend and web design projects.
